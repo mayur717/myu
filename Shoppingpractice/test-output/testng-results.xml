@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73155" started-at="2020-07-21T07:40:56Z" finished-at="2020-07-21T07:42:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73155" started-at="2020-07-21T07:40:56Z" finished-at="2020-07-21T07:42:09Z">
+      <class name="Suit.Multilogin">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:Suit.Multilogin@1ee9faa]" name="setUp" is-config="true" duration-ms="13859" started-at="2020-07-21T07:40:56Z" finished-at="2020-07-21T07:41:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inval()[pri:0, instance:Suit.Multilogin@1ee9faa]" name="inval" duration-ms="22760" started-at="2020-07-21T07:41:10Z" finished-at="2020-07-21T07:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inval -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Suit.Multilogin@1ee9faa]" name="tearDown" is-config="true" duration-ms="718" started-at="2020-07-21T07:41:33Z" finished-at="2020-07-21T07:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:Suit.Multilogin@1ee9faa]" name="setUp" is-config="true" duration-ms="12512" started-at="2020-07-21T07:41:34Z" finished-at="2020-07-21T07:41:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="m()[pri:0, instance:Suit.Multilogin@1ee9faa]" name="m" duration-ms="22460" started-at="2020-07-21T07:41:46Z" finished-at="2020-07-21T07:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Suit.Multilogin@1ee9faa]" name="tearDown" is-config="true" duration-ms="811" started-at="2020-07-21T07:42:09Z" finished-at="2020-07-21T07:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Suit.Multilogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
